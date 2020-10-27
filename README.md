@@ -3,6 +3,7 @@
 - [ ] Linter is properly configured. 
 
 - [ ] The project have several small methods / functions each with one single responsability .
+  - DRY rule should be respected
 
 - [ ] Only RESTFUL routes are defined in the app.Only routes that are used are defined
 
@@ -15,9 +16,9 @@
 - [ ] Use correctly private methods and accessors.
 
 - [ ] The project structure is correct : several files
- - correct naming of classes,files and DIR structure
- - all logic operations should be encapsulated in models/services -
- - if not an api project move view related logic to helpers
+   - correct naming of classes,files and DIR structure
+   - all logic operations should be encapsulated in models/services -
+   - if not an api project move view related logic to helpers
 
 - [ ] Methods / functions should have meaningful names and follow conventions: snake_case, ? suffix when returning a boolean
 
