@@ -1,4 +1,4 @@
-# -Final-Check-list-for-Production
+# Final-Check-list-for-Production
 
 - [ ] Linter is properly configured. 
 
